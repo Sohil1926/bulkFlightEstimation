@@ -1,0 +1,76 @@
+City,State,Country,Departing Airport,Arrival Airport,Lower end of cost,Higher end of cost,Source 1 (for lower end),Source 2 (for upper end),Carrier Code,Flight Number
+Toronto,Ontario,Canada,YYZ,MIA,139.1,621.8,,,DL,1183
+Pittsburgh,Pennsylvania,United States,PIT,MIA,203.21,562.81,,,UA,3471
+Saint Joseph,Missouri,United States,STJ,MIA,,,,,na,nan
+Staten Island,New York,United States,EWR,MIA,138.95,708.18,,,UA,2464
+Cambridge,Massachusetts,United States,BOS,MIA,118.94,1112.2,,,DL,1399
+Pittsburgh,Pennsylvania,United States,PIT,MIA,203.21,537.76,,,UA,3471
+New York,New York,United States,JFK,MIA,98.94,669.9,,,DL,1368
+Needham,Massachusetts,United States,BOS,MIA,118.94,1112.2,,,DL,1399
+Austin,Texas,United States,AUS,MIA,153.2,511.23,,,DL,1397
+Manhattan Beach,California,United States,LAX,MIA,113.89,1222.22,,,B6,2985
+Houston,Texas,United States,IAH,MIA,,,,,na,nan
+Providence,Utah,United States,PVD,MIA,,,,,na,nan
+Pasadena,California,United States,LAX,MIA,,,,,na,nan
+San Francisco,California,United States,SFO,MIA,,,,,na,nan
+Sacramento,California,United States,SMF,MIA,,,,,na,nan
+Denver,Colorado,United States,DEN,MIA,,,,,na,nan
+Syracuse,New York,United States,SYR,MIA,,,,,na,nan
+New York,New York,United States,JFK,MIA,,,,,na,nan
+Houston,Texas,United States,IAH,MIA,,,,,na,nan
+Portland,Oregon,United States,PDX,MIA,,,,,na,nan
+Neuchâtel,Neuchâtel,Switzerland,ZRH,MIA,,,,,na,nan
+Fursternfeldbruck,Bayern,Germany,MUC,MIA,,,,,na,nan
+Cerdanyola del Valles,Barcelona [Barcelona],Spain,BCN,MIA,,,,,na,nan
+High Wycombe,England,United Kingdom,LHR,MIA,,,,,na,nan
+Manchester,England,United Kingdom,MAN,MIA,,,,,na,nan
+London,England,United Kingdom,LHR,MIA,,,,,na,nan
+Mexico City,México,Mexico,MEX,MIA,,,,,na,nan
+Mexico City,México,Mexico,MEX,MIA,,,,,na,nan
+Antigonish,Nova Scotia,Canada,YYG,MIA,,,,,na,nan
+Montreal,Quebec,Canada,YUL,MIA,,,,,na,nan
+Ottawa,Ontario,Canada,YOW,MIA,,,,,na,nan
+Poznan,Wielkopolskie,Poland,POZ,MIA,,,,,na,nan
+Providence,Rhode Island,United States,PVD,MIA,,,,,na,nan
+Santa Barbara,California,United States,SBA,MIA,,,,,na,nan
+San Diego,California,United States,SAN,MIA,,,,,na,nan
+Saint John,New Brunswick,Canada,YSJ,MIA,,,,,na,nan
+Berlin,Berlin,Germany,TXL,MIA,,,,,na,nan
+Portland,Oregon,United States,PDX,MIA,,,,,na,nan
+Somerville,Massachusetts,United States,BOS,MIA,,,,,na,nan
+Los Angeles,California,United States,LAX,MIA,,,,,na,nan
+Vaughan,Ontario,Canada,YYZ,MIA,,,,,na,nan
+Colbert,Washington,United States,GEG,MIA,,,,,na,nan
+Spruce Grove,Alberta,Canada,YEG,MIA,,,,,na,nan
+Ilford,England,United Kingdom,STN,MIA,,,,,na,nan
+Kilmarnock,Scotland,United Kingdom,GLA,MIA,,,,,na,nan
+New York,New York,United States,JFK,MIA,,,,,na,nan
+London,England,United Kingdom,LHR,MIA,,,,,na,nan
+Prague,"Praha, Hlavní město",Czechia,PRG,MIA,,,,,na,nan
+Austin,Texas,United States,AUS,MIA,,,,,na,nan
+Springfield,Illinois,United States,SPI,MIA,,,,,na,nan
+San Jose,California,United States,SJC,MIA,,,,,na,nan
+Boulder,Colorado,United States,DEN,MIA,,,,,na,nan
+Brooklyn,New York,United States,JFK,MIA,,,,,na,nan
+Philadelphia,Pennsylvania,United States,PHL,MIA,,,,,na,nan
+Dallas,Texas,United States,DFW,MIA,,,,,na,nan
+Lawrence,Kansas,United States,MCI,MIA,,,,,na,nan
+Troy,Michigan,United States,DTW,MIA,,,,,na,nan
+Seattle,Washington,United States,SEA,MIA,,,,,na,nan
+Goleta,California,United States,SBA,MIA,,,,,na,nan
+Seattle,Washington,United States,SEA,MIA,,,,,na,nan
+Chapel Hill,North Carolina,United States,RDU,MIA,,,,,na,nan
+Somerville,Massachusetts,United States,BOS,MIA,,,,,na,nan
+Austin,Texas,United States,AUS,MIA,,,,,na,nan
+Swannanoa,North Carolina,United States,AVL,MIA,,,,,na,nan
+Cary,North Carolina,United States,RDU,MIA,,,,,na,nan
+Yardley,Pennsylvania,United States,PHL,MIA,,,,,na,nan
+Frankfurt am Main,Hessen,Germany,FRA,MIA,,,,,na,nan
+Barcelona,Barcelona [Barcelona],Spain,BCN,MIA,,,,,na,nan
+Barcelona,Barcelona [Barcelona],Spain,BCN,MIA,,,,,na,nan
+Cape Town,Western Cape,South Africa,CPT,MIA,,,,,na,nan
+Coquitlam,British Columbia,Canada,YVR,MIA,,,,,na,nan
+Vancouver,British Columbia,Canada,YVR,MIA,,,,,na,nan
+Burnaby,British Columbia,Canada,YVR,MIA,,,,,na,nan
+Toronto,Ontario,Canada,YYZ,MIA,,,,,na,nan
+New York,New York,United States,JFK,MIA,,,,,na,nan

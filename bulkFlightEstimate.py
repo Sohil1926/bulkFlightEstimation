@@ -1,8 +1,8 @@
 import requests
 import pandas as pd
 
-api_key = '2yjphvFGosaaz2FJSqBvFEG8pSSBiCwb'
-api_secret = 'JlmcdLoVYZtGl4OR'
+api_key = 'apikey'
+api_secret = 'apisecret'
 
 auth_url = 'https://test.api.amadeus.com/v1/security/oauth2/token'
 auth_data = {
